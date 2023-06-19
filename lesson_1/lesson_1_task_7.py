@@ -1,0 +1,13 @@
+def output(num):
+    print(num)
+output(8)
+output(8)    
+output(0)
+output(0)
+output(5)
+output(5)
+output(5)
+output(3)
+output(5)
+output(3)
+output(5)
